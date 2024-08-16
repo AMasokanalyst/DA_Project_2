@@ -15,6 +15,8 @@
 ### Project Overview
 This data analysis project aims to find data-driven strategy to help improve Dano airline passenger satisfaction rate
 
+![project dashboard](/Screenshot_16-8-2024_144932_.jpeg)
+
 ### Data Source
 Dano Airline Data: This dataset is in CSV format, it contains information about each passenger, their flight, type of travel and evaluation of different factors, such as cleanliness, comfort, service and overall experience.
 
