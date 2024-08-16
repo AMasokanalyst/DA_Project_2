@@ -1,5 +1,17 @@
 # Dano Airline Passenger Satisfaction Analysis
 
+## Table of Content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [References](#references)
+
+
 ### Project Overview
 This data analysis project aims to find data-driven strategy to help improve Dano airline passenger satisfaction rate
 
@@ -10,7 +22,7 @@ Dano Airline Data: This dataset is in CSV format, it contains information about 
 - Excel - loading and inspection
 - PowerBI - Cleaning, Preparation, EDA and visualization
 
-### Data Cleaning and Preperation
+### Data Cleaning and Preparation
 - Data loading and inspection
 - Handling missing values and duplicates
 - Data cleaning and formating
@@ -34,4 +46,7 @@ Involved creating groups in PowerBI, such as:
 - Improve customer Service
 - Ensure seamless booking experience on mobile devices
 - Provide 24/7 customer support
+
+### References
+[SweatpantsBI](www.youtube.com/@sweatpantsbi)
 
