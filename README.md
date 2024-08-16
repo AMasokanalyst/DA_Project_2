@@ -22,10 +22,9 @@ Involves answering key questions such as:
 3. Which category have the lowest rating
 
 ### Data analysis
-PowerBI DAX code
-```DAX
-
-```
+Involved creating groups in PowerBI, such as:
+- Age groups
+- Satisfaction categories
 ### Results and Findings
 - About 57% of Dano airlines passengers have rated the airline satisfaction as either neutral or dissatisfying
 - Booking is the category with the lowest rating than any other category
