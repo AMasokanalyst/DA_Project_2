@@ -48,5 +48,5 @@ Involved creating groups in PowerBI, such as:
 - Provide 24/7 customer support
 
 ### References
-[SweatpantsBI](www.youtube.com/@sweatpantsbi)
+[SweatpantsBI](https://www.youtube.com/@sweatpantsbi)
 
